@@ -7,7 +7,7 @@ For now, it centers line by line manually.
 
 ## How to use:
 - 1: Build the project;
-- 2: Type the text you want to center and press `Enter`. 
+- 2: Write or paste the text you want to center and press `Enter`. 
 - 3: Copy the entire new line up to the `*` (the `*` indicates the end of the line);
 - 4: If you want to center new text, press `Enter` again and repeat step 3.
 
